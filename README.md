@@ -79,5 +79,5 @@ data = slice_hash("ad.wav")  # returns signed JSON
 
 ---
 
-📄 License
-MIT © 2025 BioShepard
+## 📄 License
+● MIT © 2025 BioShepard
